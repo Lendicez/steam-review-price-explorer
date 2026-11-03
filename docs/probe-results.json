@@ -1,0 +1,808 @@
+[
+  {
+    "label": "reviews:620:all",
+    "time": "2026-11-03T08:04:45.207Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 463194,
+      "total_negative": 6071,
+      "total_reviews": 469265
+    },
+    "total_matching": 469265,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:tchinese",
+    "time": "2026-11-03T08:04:45.806Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 2065,
+      "total_negative": 27,
+      "total_reviews": 2092
+    },
+    "total_matching": 2092,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:schinese",
+    "time": "2026-11-03T08:04:46.420Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 33381,
+      "total_negative": 600,
+      "total_reviews": 33981
+    },
+    "total_matching": 33981,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:english",
+    "time": "2026-11-03T08:04:47.126Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 210133,
+      "total_negative": 2473,
+      "total_reviews": 212606
+    },
+    "total_matching": 212606,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:japanese",
+    "time": "2026-11-03T08:04:47.744Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1156,
+      "total_negative": 37,
+      "total_reviews": 1193
+    },
+    "total_matching": 1193,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:koreana",
+    "time": "2026-11-03T08:04:48.339Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 8712,
+      "total_negative": 162,
+      "total_reviews": 8874
+    },
+    "total_matching": 8874,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:arabic",
+    "time": "2026-11-03T08:04:49.082Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "total_matching": 0
+  },
+  {
+    "label": "reviews:620:bulgarian",
+    "time": "2026-11-03T08:04:49.689Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 185,
+      "total_negative": 4,
+      "total_reviews": 189
+    },
+    "total_matching": 189,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:czech",
+    "time": "2026-11-03T08:04:50.273Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 3167,
+      "total_negative": 45,
+      "total_reviews": 3212
+    },
+    "total_matching": 3212,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:danish",
+    "time": "2026-11-03T08:04:50.942Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 534,
+      "total_negative": 9,
+      "total_reviews": 543
+    },
+    "total_matching": 543,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:dutch",
+    "time": "2026-11-03T08:04:51.556Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1122,
+      "total_negative": 9,
+      "total_reviews": 1131
+    },
+    "total_matching": 1131,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:finnish",
+    "time": "2026-11-03T08:04:52.123Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 694,
+      "total_negative": 13,
+      "total_reviews": 707
+    },
+    "total_matching": 707,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:french",
+    "time": "2026-11-03T08:04:52.745Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 9879,
+      "total_negative": 67,
+      "total_reviews": 9946
+    },
+    "total_matching": 9946,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:german",
+    "time": "2026-11-03T08:04:53.344Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 11367,
+      "total_negative": 88,
+      "total_reviews": 11455
+    },
+    "total_matching": 11455,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:greek",
+    "time": "2026-11-03T08:04:53.899Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 194,
+      "total_negative": 2,
+      "total_reviews": 196
+    },
+    "total_matching": 196,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:hungarian",
+    "time": "2026-11-03T08:04:54.477Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1392,
+      "total_negative": 14,
+      "total_reviews": 1406
+    },
+    "total_matching": 1406,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:indonesian",
+    "time": "2026-11-03T08:04:55.040Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 7,
+      "review_score_desc": "Positive",
+      "total_positive": 25,
+      "total_negative": 0,
+      "total_reviews": 25
+    },
+    "total_matching": 25,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:italian",
+    "time": "2026-11-03T08:04:55.630Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 2759,
+      "total_negative": 32,
+      "total_reviews": 2791
+    },
+    "total_matching": 2791,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:malay",
+    "time": "2026-11-03T08:04:56.390Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 0,
+      "review_score": 0,
+      "review_score_desc": "No user reviews",
+      "total_positive": 0,
+      "total_negative": 0,
+      "total_reviews": 0
+    },
+    "total_matching": 0
+  },
+  {
+    "label": "reviews:620:norwegian",
+    "time": "2026-11-03T08:04:56.969Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 423,
+      "total_negative": 7,
+      "total_reviews": 430
+    },
+    "total_matching": 430,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:polish",
+    "time": "2026-11-03T08:04:57.601Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 9231,
+      "total_negative": 131,
+      "total_reviews": 9362
+    },
+    "total_matching": 9362,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:portuguese",
+    "time": "2026-11-03T08:04:58.178Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1641,
+      "total_negative": 15,
+      "total_reviews": 1656
+    },
+    "total_matching": 1656,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:brazilian",
+    "time": "2026-11-03T08:04:58.775Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 20505,
+      "total_negative": 158,
+      "total_reviews": 20663
+    },
+    "total_matching": 20663,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:romanian",
+    "time": "2026-11-03T08:04:59.349Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 355,
+      "total_negative": 10,
+      "total_reviews": 365
+    },
+    "total_matching": 365,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:russian",
+    "time": "2026-11-03T08:05:00.141Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 94895,
+      "total_negative": 1457,
+      "total_reviews": 96352
+    },
+    "total_matching": 96352,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:spanish",
+    "time": "2026-11-03T08:05:00.757Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 24672,
+      "total_negative": 182,
+      "total_reviews": 24854
+    },
+    "total_matching": 24854,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:latam",
+    "time": "2026-11-03T08:05:01.354Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 3870,
+      "total_negative": 25,
+      "total_reviews": 3895
+    },
+    "total_matching": 3895,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:swedish",
+    "time": "2026-11-03T08:05:01.977Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1014,
+      "total_negative": 10,
+      "total_reviews": 1024
+    },
+    "total_matching": 1024,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:thai",
+    "time": "2026-11-03T08:05:02.557Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 466,
+      "total_negative": 5,
+      "total_reviews": 471
+    },
+    "total_matching": 471,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:turkish",
+    "time": "2026-11-03T08:05:03.172Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 15725,
+      "total_negative": 439,
+      "total_reviews": 16164
+    },
+    "total_matching": 16164,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:ukrainian",
+    "time": "2026-11-03T08:05:03.753Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 3530,
+      "total_negative": 49,
+      "total_reviews": 3579
+    },
+    "total_matching": 3579,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:620:vietnamese",
+    "time": "2026-11-03T08:05:04.329Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 102,
+      "total_negative": 1,
+      "total_reviews": 103
+    },
+    "total_matching": 103,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:570:all",
+    "time": "2026-11-03T08:05:05.201Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 2257741,
+      "total_negative": 550752,
+      "total_reviews": 2808493
+    },
+    "total_matching": 2808506,
+    "pageCount": 1
+  },
+  {
+    "label": "reviews:4706950:all",
+    "time": "2026-11-03T08:05:05.744Z",
+    "status": 200,
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 5,
+      "review_score_desc": "Mixed",
+      "total_positive": 132,
+      "total_negative": 68,
+      "total_reviews": 200
+    },
+    "total_matching": 200,
+    "pageCount": 1
+  },
+  {
+    "label": "filters:0:true",
+    "time": "2026-11-03T08:05:06.324Z",
+    "status": 200,
+    "input": {
+      "appid": 620,
+      "filter": 1,
+      "languages": [
+        "tchinese"
+      ],
+      "review_type": 0,
+      "purchase_type": 0,
+      "cursor": "*",
+      "num_per_page": 1,
+      "filter_offtopic_activity": true
+    },
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1739,
+      "total_negative": 21,
+      "total_reviews": 1760
+    }
+  },
+  {
+    "label": "filters:0:false",
+    "time": "2026-11-03T08:05:06.908Z",
+    "status": 200,
+    "input": {
+      "appid": 620,
+      "filter": 1,
+      "languages": [
+        "tchinese"
+      ],
+      "review_type": 0,
+      "purchase_type": 0,
+      "cursor": "*",
+      "num_per_page": 1,
+      "filter_offtopic_activity": false
+    },
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1739,
+      "total_negative": 21,
+      "total_reviews": 1760
+    }
+  },
+  {
+    "label": "filters:2:true",
+    "time": "2026-11-03T08:05:07.522Z",
+    "status": 200,
+    "input": {
+      "appid": 620,
+      "filter": 1,
+      "languages": [
+        "tchinese"
+      ],
+      "review_type": 0,
+      "purchase_type": 2,
+      "cursor": "*",
+      "num_per_page": 1,
+      "filter_offtopic_activity": true
+    },
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 326,
+      "total_negative": 6,
+      "total_reviews": 332
+    }
+  },
+  {
+    "label": "filters:2:false",
+    "time": "2026-11-03T08:05:08.121Z",
+    "status": 200,
+    "input": {
+      "appid": 620,
+      "filter": 1,
+      "languages": [
+        "tchinese"
+      ],
+      "review_type": 0,
+      "purchase_type": 2,
+      "cursor": "*",
+      "num_per_page": 1,
+      "filter_offtopic_activity": false
+    },
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 326,
+      "total_negative": 6,
+      "total_reviews": 332
+    }
+  },
+  {
+    "label": "price:620:US",
+    "time": "2026-11-03T08:05:13.780Z",
+    "status": 200,
+    "success": true,
+    "name": "Portal 2",
+    "is_free": false,
+    "price": {
+      "currency": "USD",
+      "initial": 999,
+      "final": 999,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$9.99"
+    }
+  },
+  {
+    "label": "price:620:TW",
+    "time": "2026-11-03T08:05:14.403Z",
+    "status": 200,
+    "success": true,
+    "name": "Portal 2",
+    "is_free": false,
+    "price": {
+      "currency": "TWD",
+      "initial": 19800,
+      "final": 19800,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "NT$ 198"
+    }
+  },
+  {
+    "label": "price:620:JP",
+    "time": "2026-11-03T08:05:14.967Z",
+    "status": 200,
+    "success": true,
+    "name": "Portal 2",
+    "is_free": false,
+    "price": {
+      "currency": "JPY",
+      "initial": 140000,
+      "final": 140000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 1,400"
+    }
+  },
+  {
+    "label": "price:620:KR",
+    "time": "2026-11-03T08:05:15.555Z",
+    "status": 200,
+    "success": true,
+    "name": "Portal 2",
+    "is_free": false,
+    "price": {
+      "currency": "KRW",
+      "initial": 1100000,
+      "final": 1100000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "₩ 11,000"
+    }
+  },
+  {
+    "label": "price:570:US",
+    "time": "2026-11-03T08:05:16.071Z",
+    "status": 200,
+    "success": true,
+    "name": "Dota 2",
+    "is_free": true
+  },
+  {
+    "label": "price:570:TW",
+    "time": "2026-11-03T08:05:16.614Z",
+    "status": 200,
+    "success": true,
+    "name": "Dota 2",
+    "is_free": true
+  },
+  {
+    "label": "price:570:JP",
+    "time": "2026-11-03T08:05:17.153Z",
+    "status": 200,
+    "success": true,
+    "name": "Dota 2",
+    "is_free": true
+  },
+  {
+    "label": "price:570:KR",
+    "time": "2026-11-03T08:05:17.727Z",
+    "status": 200,
+    "success": true,
+    "name": "Dota 2",
+    "is_free": true
+  },
+  {
+    "label": "price:4706950:US",
+    "time": "2026-11-03T08:05:18.282Z",
+    "status": 200,
+    "success": true,
+    "name": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+    "is_free": false,
+    "price": {
+      "currency": "USD",
+      "initial": 1299,
+      "final": 1299,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "$12.99"
+    }
+  },
+  {
+    "label": "price:4706950:TW",
+    "time": "2026-11-03T08:05:18.869Z",
+    "status": 200,
+    "success": true,
+    "name": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+    "is_free": false,
+    "price": {
+      "currency": "TWD",
+      "initial": 25500,
+      "final": 25500,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "NT$ 255"
+    }
+  },
+  {
+    "label": "price:4706950:JP",
+    "time": "2026-11-03T08:05:19.409Z",
+    "status": 200,
+    "success": true,
+    "name": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+    "is_free": false,
+    "price": {
+      "currency": "JPY",
+      "initial": 275000,
+      "final": 275000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "¥ 2,750"
+    }
+  },
+  {
+    "label": "price:4706950:KR",
+    "time": "2026-11-03T08:05:20.025Z",
+    "status": 200,
+    "success": true,
+    "name": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+    "is_free": false,
+    "price": {
+      "currency": "KRW",
+      "initial": 1400000,
+      "final": 1400000,
+      "discount_percent": 0,
+      "initial_formatted": "",
+      "final_formatted": "₩ 14,000"
+    }
+  },
+  {
+    "label": "fx",
+    "time": "2026-11-03T08:05:25.634Z",
+    "status": 200,
+    "result": "success",
+    "base": "USD",
+    "asOf": "Tue, 03 Nov 2026 00:02:31 +0000",
+    "requiredCurrencies": [
+      {
+        "currency": "USD",
+        "valid": true
+      },
+      {
+        "currency": "TWD",
+        "valid": true
+      },
+      {
+        "currency": "JPY",
+        "valid": true
+      },
+      {
+        "currency": "KRW",
+        "valid": true
+      },
+      {
+        "currency": "CNY",
+        "valid": true
+      },
+      {
+        "currency": "EUR",
+        "valid": true
+      },
+      {
+        "currency": "HKD",
+        "valid": true
+      }
+    ]
+  }
+]

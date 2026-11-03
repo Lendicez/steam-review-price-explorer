@@ -1,0 +1,1978 @@
+{
+  "base": "https://steam-review-price-explorer-lendicez.lendicez.chatgpt.site",
+  "results": [
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:19:58.880Z",
+      "path": "/api/health",
+      "data": {
+        "status": "ok",
+        "service": "Steam Lens",
+        "registryVersion": "2026-11-03",
+        "time": "2026-11-03T08:19:58.852Z"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:00.650Z",
+      "path": "/api/config",
+      "data": {
+        "languages": [
+          {
+            "code": "tchinese",
+            "name": "繁體中文",
+            "country": "TW"
+          },
+          {
+            "code": "schinese",
+            "name": "簡體中文",
+            "country": "CN"
+          },
+          {
+            "code": "english",
+            "name": "英文",
+            "country": "US"
+          },
+          {
+            "code": "japanese",
+            "name": "日文",
+            "country": "JP"
+          },
+          {
+            "code": "koreana",
+            "name": "韓文",
+            "country": "KR"
+          },
+          {
+            "code": "arabic",
+            "name": "阿拉伯文",
+            "country": "SA"
+          },
+          {
+            "code": "bulgarian",
+            "name": "保加利亞文",
+            "country": "BG"
+          },
+          {
+            "code": "czech",
+            "name": "捷克文",
+            "country": "CZ"
+          },
+          {
+            "code": "danish",
+            "name": "丹麥文",
+            "country": "DK"
+          },
+          {
+            "code": "dutch",
+            "name": "荷蘭文",
+            "country": "NL"
+          },
+          {
+            "code": "finnish",
+            "name": "芬蘭文",
+            "country": "FI"
+          },
+          {
+            "code": "french",
+            "name": "法文",
+            "country": "FR"
+          },
+          {
+            "code": "german",
+            "name": "德文",
+            "country": "DE"
+          },
+          {
+            "code": "greek",
+            "name": "希臘文",
+            "country": "GR"
+          },
+          {
+            "code": "hungarian",
+            "name": "匈牙利文",
+            "country": "HU"
+          },
+          {
+            "code": "indonesian",
+            "name": "印尼文",
+            "country": "ID"
+          },
+          {
+            "code": "italian",
+            "name": "義大利文",
+            "country": "IT"
+          },
+          {
+            "code": "malay",
+            "name": "馬來文",
+            "country": "MY"
+          },
+          {
+            "code": "norwegian",
+            "name": "挪威文",
+            "country": "NO"
+          },
+          {
+            "code": "polish",
+            "name": "波蘭文",
+            "country": "PL"
+          },
+          {
+            "code": "portuguese",
+            "name": "葡萄牙文",
+            "country": "PT"
+          },
+          {
+            "code": "brazilian",
+            "name": "巴西葡萄牙文",
+            "country": "BR"
+          },
+          {
+            "code": "romanian",
+            "name": "羅馬尼亞文",
+            "country": "RO"
+          },
+          {
+            "code": "russian",
+            "name": "俄文",
+            "country": "RU"
+          },
+          {
+            "code": "spanish",
+            "name": "西班牙文（西班牙）",
+            "country": "ES"
+          },
+          {
+            "code": "latam",
+            "name": "西班牙文（拉丁美洲）",
+            "country": "MX"
+          },
+          {
+            "code": "swedish",
+            "name": "瑞典文",
+            "country": "SE"
+          },
+          {
+            "code": "thai",
+            "name": "泰文",
+            "country": "TH"
+          },
+          {
+            "code": "turkish",
+            "name": "土耳其文",
+            "country": "TR"
+          },
+          {
+            "code": "ukrainian",
+            "name": "烏克蘭文",
+            "country": "UA"
+          },
+          {
+            "code": "vietnamese",
+            "name": "越南文",
+            "country": "VN"
+          }
+        ],
+        "countries": {
+          "TW": "台灣",
+          "CN": "中國",
+          "US": "美國",
+          "JP": "日本",
+          "KR": "韓國",
+          "SA": "沙烏地阿拉伯",
+          "BG": "保加利亞",
+          "CZ": "捷克",
+          "DK": "丹麥",
+          "NL": "荷蘭",
+          "FI": "芬蘭",
+          "FR": "法國",
+          "DE": "德國",
+          "GR": "希臘",
+          "HU": "匈牙利",
+          "ID": "印尼",
+          "IT": "義大利",
+          "MY": "馬來西亞",
+          "NO": "挪威",
+          "PL": "波蘭",
+          "PT": "葡萄牙",
+          "BR": "巴西",
+          "RO": "羅馬尼亞",
+          "RU": "俄羅斯",
+          "ES": "西班牙",
+          "MX": "墨西哥",
+          "SE": "瑞典",
+          "TH": "泰國",
+          "TR": "土耳其",
+          "UA": "烏克蘭",
+          "VN": "越南",
+          "HK": "香港",
+          "GB": "英國",
+          "CA": "加拿大",
+          "AU": "澳洲",
+          "NZ": "紐西蘭",
+          "AR": "阿根廷",
+          "CL": "智利",
+          "CO": "哥倫比亞",
+          "AE": "阿拉伯聯合大公國",
+          "EG": "埃及",
+          "KZ": "哈薩克"
+        },
+        "registryVersion": "2026-11-03"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.157Z",
+      "path": "/api/app/620",
+      "data": {
+        "appId": 620,
+        "appName": "Portal 2",
+        "usQuote": {
+          "appId": 620,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "9.99",
+          "finalAmount": "9.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:31.948Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$9.99",
+          "rawInitial": 999,
+          "rawFinal": 999,
+          "cacheState": "hit"
+        },
+        "baseToken": "[snapshot]",
+        "fetchedAt": "2026-11-03T08:20:01.083Z"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.308Z",
+      "path": "/api/reviews/620?language=all",
+      "data": {
+        "appId": 620,
+        "languageCode": "all",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 469265,
+        "positive": 463194,
+        "negative": 6071,
+        "positiveRate": 98.70627470618946,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:34.066Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.433Z",
+      "path": "/api/reviews/620?language=tchinese",
+      "data": {
+        "appId": 620,
+        "languageCode": "tchinese",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 2092,
+        "positive": 2065,
+        "negative": 27,
+        "positiveRate": 98.7093690248566,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:32.536Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.544Z",
+      "path": "/api/reviews/620?language=english",
+      "data": {
+        "appId": 620,
+        "languageCode": "english",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 212606,
+        "positive": 210133,
+        "negative": 2473,
+        "positiveRate": 98.83681551790636,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:34.305Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.677Z",
+      "path": "/api/reviews/620?language=japanese",
+      "data": {
+        "appId": 620,
+        "languageCode": "japanese",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 1193,
+        "positive": 1156,
+        "negative": 37,
+        "positiveRate": 96.89857502095558,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:34.644Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.804Z",
+      "path": "/api/reviews/620?language=koreana",
+      "data": {
+        "appId": 620,
+        "languageCode": "koreana",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 8874,
+        "positive": 8712,
+        "negative": 162,
+        "positiveRate": 98.17444219066938,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:34.748Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:01.929Z",
+      "path": "/api/reviews/620?language=arabic",
+      "data": {
+        "appId": 620,
+        "languageCode": "arabic",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "positiveRate": null,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:34.888Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.072Z",
+      "path": "/api/reviews/620?language=bulgarian",
+      "data": {
+        "appId": 620,
+        "languageCode": "bulgarian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 189,
+        "positive": 185,
+        "negative": 4,
+        "positiveRate": 97.88359788359789,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:35.203Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.201Z",
+      "path": "/api/reviews/620?language=czech",
+      "data": {
+        "appId": 620,
+        "languageCode": "czech",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 3212,
+        "positive": 3167,
+        "negative": 45,
+        "positiveRate": 98.59900373599004,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:35.296Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.327Z",
+      "path": "/api/reviews/620?language=danish",
+      "data": {
+        "appId": 620,
+        "languageCode": "danish",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 543,
+        "positive": 534,
+        "negative": 9,
+        "positiveRate": 98.34254143646409,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:35.460Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.459Z",
+      "path": "/api/reviews/620?language=dutch",
+      "data": {
+        "appId": 620,
+        "languageCode": "dutch",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 1131,
+        "positive": 1122,
+        "negative": 9,
+        "positiveRate": 99.20424403183023,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:35.725Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.585Z",
+      "path": "/api/reviews/620?language=finnish",
+      "data": {
+        "appId": 620,
+        "languageCode": "finnish",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 707,
+        "positive": 694,
+        "negative": 13,
+        "positiveRate": 98.16124469589816,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:35.866Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.717Z",
+      "path": "/api/reviews/620?language=french",
+      "data": {
+        "appId": 620,
+        "languageCode": "french",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 9946,
+        "positive": 9879,
+        "negative": 67,
+        "positiveRate": 99.32636235672632,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:36.002Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.835Z",
+      "path": "/api/reviews/620?language=german",
+      "data": {
+        "appId": 620,
+        "languageCode": "german",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 11455,
+        "positive": 11367,
+        "negative": 88,
+        "positiveRate": 99.2317765168049,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:36.214Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:02.935Z",
+      "path": "/api/reviews/620?language=greek",
+      "data": {
+        "appId": 620,
+        "languageCode": "greek",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 196,
+        "positive": 194,
+        "negative": 2,
+        "positiveRate": 98.9795918367347,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:36.405Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.050Z",
+      "path": "/api/reviews/620?language=hungarian",
+      "data": {
+        "appId": 620,
+        "languageCode": "hungarian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 1406,
+        "positive": 1392,
+        "negative": 14,
+        "positiveRate": 99.00426742532005,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:36.562Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.154Z",
+      "path": "/api/reviews/620?language=indonesian",
+      "data": {
+        "appId": 620,
+        "languageCode": "indonesian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 25,
+        "positive": 25,
+        "negative": 0,
+        "positiveRate": 100,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:36.703Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.278Z",
+      "path": "/api/reviews/620?language=italian",
+      "data": {
+        "appId": 620,
+        "languageCode": "italian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 2791,
+        "positive": 2759,
+        "negative": 32,
+        "positiveRate": 98.8534575420996,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:36.916Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.387Z",
+      "path": "/api/reviews/620?language=malay",
+      "data": {
+        "appId": 620,
+        "languageCode": "malay",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 0,
+        "positive": 0,
+        "negative": 0,
+        "positiveRate": null,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:37.084Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.507Z",
+      "path": "/api/reviews/620?language=norwegian",
+      "data": {
+        "appId": 620,
+        "languageCode": "norwegian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 430,
+        "positive": 423,
+        "negative": 7,
+        "positiveRate": 98.37209302325581,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:37.197Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.622Z",
+      "path": "/api/reviews/620?language=polish",
+      "data": {
+        "appId": 620,
+        "languageCode": "polish",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 9362,
+        "positive": 9231,
+        "negative": 131,
+        "positiveRate": 98.60072634052553,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:37.418Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.761Z",
+      "path": "/api/reviews/620?language=portuguese",
+      "data": {
+        "appId": 620,
+        "languageCode": "portuguese",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 1656,
+        "positive": 1641,
+        "negative": 15,
+        "positiveRate": 99.09420289855072,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:37.628Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.866Z",
+      "path": "/api/reviews/620?language=brazilian",
+      "data": {
+        "appId": 620,
+        "languageCode": "brazilian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 20663,
+        "positive": 20505,
+        "negative": 158,
+        "positiveRate": 99.23534820693995,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:37.775Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:03.988Z",
+      "path": "/api/reviews/620?language=romanian",
+      "data": {
+        "appId": 620,
+        "languageCode": "romanian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 365,
+        "positive": 355,
+        "negative": 10,
+        "positiveRate": 97.26027397260275,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:37.976Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.112Z",
+      "path": "/api/reviews/620?language=russian",
+      "data": {
+        "appId": 620,
+        "languageCode": "russian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 96352,
+        "positive": 94895,
+        "negative": 1457,
+        "positiveRate": 98.48783626702092,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:38.165Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.220Z",
+      "path": "/api/reviews/620?language=spanish",
+      "data": {
+        "appId": 620,
+        "languageCode": "spanish",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 24854,
+        "positive": 24672,
+        "negative": 182,
+        "positiveRate": 99.26772350527078,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:38.303Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.323Z",
+      "path": "/api/reviews/620?language=latam",
+      "data": {
+        "appId": 620,
+        "languageCode": "latam",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 3895,
+        "positive": 3870,
+        "negative": 25,
+        "positiveRate": 99.3581514762516,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:38.514Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.469Z",
+      "path": "/api/reviews/620?language=swedish",
+      "data": {
+        "appId": 620,
+        "languageCode": "swedish",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 1024,
+        "positive": 1014,
+        "negative": 10,
+        "positiveRate": 99.0234375,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:38.704Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.567Z",
+      "path": "/api/reviews/620?language=thai",
+      "data": {
+        "appId": 620,
+        "languageCode": "thai",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 471,
+        "positive": 466,
+        "negative": 5,
+        "positiveRate": 98.93842887473461,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:38.873Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.681Z",
+      "path": "/api/reviews/620?language=turkish",
+      "data": {
+        "appId": 620,
+        "languageCode": "turkish",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 16164,
+        "positive": 15725,
+        "negative": 439,
+        "positiveRate": 97.2840880970057,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:39.042Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.792Z",
+      "path": "/api/reviews/620?language=ukrainian",
+      "data": {
+        "appId": 620,
+        "languageCode": "ukrainian",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 3579,
+        "positive": 3530,
+        "negative": 49,
+        "positiveRate": 98.63090248672813,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:39.234Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:04.989Z",
+      "path": "/api/reviews/620?language=vietnamese",
+      "data": {
+        "appId": 620,
+        "languageCode": "vietnamese",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 103,
+        "positive": 102,
+        "negative": 1,
+        "positiveRate": 99.02912621359224,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:39.443Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:06.498Z",
+      "path": "/api/reviews/620?language=schinese",
+      "data": {
+        "appId": 620,
+        "languageCode": "schinese",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 33981,
+        "positive": 33381,
+        "negative": 600,
+        "positiveRate": 98.23430740708042,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:14:34.145Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:06.610Z",
+      "path": "/api/compare/620?country=US&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 620,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "9.99",
+          "finalAmount": "9.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:31.948Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$9.99",
+          "rawInitial": 999,
+          "rawFinal": 999,
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 620,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "9.99",
+          "finalAmount": "9.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:31.948Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$9.99",
+          "rawInitial": 999,
+          "rawFinal": 999,
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "9.99000000",
+            "usUsdAmount": "9.99",
+            "differencePercent": 0,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:06.593Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "9.99000000",
+            "usUsdAmount": "9.99",
+            "differencePercent": 0,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:06.593Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:06.763Z",
+      "path": "/api/compare/620?country=TW&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 620,
+          "countryCode": "TW",
+          "currency": "TWD",
+          "initialAmount": "198",
+          "finalAmount": "198",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:34.508Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "NT$ 198",
+          "rawInitial": 19800,
+          "rawFinal": 19800,
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 620,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "9.99",
+          "finalAmount": "9.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:31.948Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$9.99",
+          "rawInitial": 999,
+          "rawFinal": 999,
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "6.07563596",
+            "usUsdAmount": "9.99",
+            "differencePercent": -39.1828232203202,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:06.737Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "6.07563596",
+            "usUsdAmount": "9.99",
+            "differencePercent": -39.1828232203202,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:06.737Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:06.921Z",
+      "path": "/api/compare/620?country=JP&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 620,
+          "countryCode": "JP",
+          "currency": "JPY",
+          "initialAmount": "1400",
+          "finalAmount": "1400",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:35.708Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "¥ 1,400",
+          "rawInitial": 140000,
+          "rawFinal": 140000,
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 620,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "9.99",
+          "finalAmount": "9.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:31.948Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$9.99",
+          "rawInitial": 999,
+          "rawFinal": 999,
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "8.86658888",
+            "usUsdAmount": "9.99",
+            "differencePercent": -11.245356526146892,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:06.898Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "8.86658888",
+            "usUsdAmount": "9.99",
+            "differencePercent": -11.245356526146892,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:06.898Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:07.060Z",
+      "path": "/api/compare/620?country=KR&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 620,
+          "countryCode": "KR",
+          "currency": "KRW",
+          "initialAmount": "11000",
+          "finalAmount": "11000",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:35.798Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "₩ 11,000",
+          "rawInitial": 1100000,
+          "rawFinal": 1100000,
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 620,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "9.99",
+          "finalAmount": "9.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:14:31.948Z",
+          "source": "Steam AppDetails",
+          "appName": "Portal 2",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$9.99",
+          "rawInitial": 999,
+          "rawFinal": 999,
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "8.18375804",
+            "usUsdAmount": "9.99",
+            "differencePercent": -18.080500064138263,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:07.039Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "8.18375804",
+            "usUsdAmount": "9.99",
+            "differencePercent": -18.080500064138263,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:07.039Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:07.222Z",
+      "path": "/api/reviews/620?language=tchinese&purchase=steam&offtopic=include",
+      "data": {
+        "appId": 620,
+        "languageCode": "tchinese",
+        "purchaseFilter": "steam",
+        "offTopicFilter": "include",
+        "total": 1760,
+        "positive": 1739,
+        "negative": 21,
+        "positiveRate": 98.80681818181817,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:15:05.678Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:07.359Z",
+      "path": "/api/reviews/620?language=tchinese&purchase=nonsteam&offtopic=include",
+      "data": {
+        "appId": 620,
+        "languageCode": "tchinese",
+        "purchaseFilter": "nonsteam",
+        "offTopicFilter": "include",
+        "total": 332,
+        "positive": 326,
+        "negative": 6,
+        "positiveRate": 98.19277108433735,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:15:06.365Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:07.613Z",
+      "path": "/api/app/570",
+      "data": {
+        "appId": 570,
+        "appName": "Dota 2",
+        "usQuote": {
+          "appId": 570,
+          "countryCode": "US",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:07.051Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "baseToken": "[snapshot]",
+        "fetchedAt": "2026-11-03T08:20:07.577Z"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:07.729Z",
+      "path": "/api/reviews/570?language=all",
+      "data": {
+        "appId": 570,
+        "languageCode": "all",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 2808508,
+        "positive": 2257752,
+        "negative": 550756,
+        "positiveRate": 80.38973006307975,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:15:07.712Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:07.836Z",
+      "path": "/api/compare/570?country=US&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 570,
+          "countryCode": "US",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:07.051Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 570,
+          "countryCode": "US",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:07.051Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:07.817Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          },
+          "initial": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:07.817Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:08.022Z",
+      "path": "/api/compare/570?country=TW&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 570,
+          "countryCode": "TW",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:08.411Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 570,
+          "countryCode": "US",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:07.051Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:07.977Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          },
+          "initial": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:07.977Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:08.149Z",
+      "path": "/api/compare/570?country=JP&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 570,
+          "countryCode": "JP",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:08.966Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 570,
+          "countryCode": "US",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:07.051Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:08.127Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          },
+          "initial": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:08.127Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:08.286Z",
+      "path": "/api/compare/570?country=KR&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 570,
+          "countryCode": "KR",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:09.564Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "usQuote": {
+          "appId": 570,
+          "countryCode": "US",
+          "currency": null,
+          "initialAmount": "0",
+          "finalAmount": "0",
+          "discountPercent": null,
+          "isFree": true,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "free",
+          "fetchedAt": "2026-11-03T08:15:07.051Z",
+          "source": "Steam AppDetails",
+          "appName": "Dota 2",
+          "appType": "game",
+          "cacheState": "hit"
+        },
+        "comparisons": {
+          "final": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:08.267Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          },
+          "initial": {
+            "status": "unavailable",
+            "localUsdAmount": "0.00000000",
+            "usUsdAmount": null,
+            "differencePercent": null,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:08.267Z",
+            "reason": "美國基準價缺失或為零，無法計算百分比。"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:08.910Z",
+      "path": "/api/app/4706950",
+      "data": {
+        "appId": 4706950,
+        "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+        "usQuote": {
+          "appId": 4706950,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "12.99",
+          "finalAmount": "12.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:08.784Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$12.99",
+          "rawInitial": 1299,
+          "rawFinal": 1299,
+          "cacheState": "fresh"
+        },
+        "baseToken": "[snapshot]",
+        "fetchedAt": "2026-11-03T08:20:08.875Z"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:09.066Z",
+      "path": "/api/reviews/4706950?language=all",
+      "data": {
+        "appId": 4706950,
+        "languageCode": "all",
+        "purchaseFilter": "all",
+        "offTopicFilter": "exclude",
+        "total": 200,
+        "positive": 132,
+        "negative": 68,
+        "positiveRate": 66,
+        "status": "ok",
+        "fetchedAt": "2026-11-03T08:15:14.157Z",
+        "source": "Steam IUserReviewsService v1",
+        "cacheState": "hit"
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:09.197Z",
+      "path": "/api/compare/4706950?country=US&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 4706950,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "12.99",
+          "finalAmount": "12.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:08.784Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$12.99",
+          "rawInitial": 1299,
+          "rawFinal": 1299,
+          "cacheState": "fresh"
+        },
+        "usQuote": {
+          "appId": 4706950,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "12.99",
+          "finalAmount": "12.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:08.784Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$12.99",
+          "rawInitial": 1299,
+          "rawFinal": 1299,
+          "cacheState": "fresh"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "12.99000000",
+            "usUsdAmount": "12.99",
+            "differencePercent": 0,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:09.178Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "12.99000000",
+            "usUsdAmount": "12.99",
+            "differencePercent": 0,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": null,
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:09.178Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:09.683Z",
+      "path": "/api/compare/4706950?country=TW&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 4706950,
+          "countryCode": "TW",
+          "currency": "TWD",
+          "initialAmount": "255",
+          "finalAmount": "255",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:09.595Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "NT$ 255",
+          "rawInitial": 25500,
+          "rawFinal": 25500,
+          "cacheState": "fresh"
+        },
+        "usQuote": {
+          "appId": 4706950,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "12.99",
+          "finalAmount": "12.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:08.784Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$12.99",
+          "rawInitial": 1299,
+          "rawFinal": 1299,
+          "cacheState": "fresh"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "7.82468268",
+            "usUsdAmount": "12.99",
+            "differencePercent": -39.76379772031505,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:09.650Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "7.82468268",
+            "usUsdAmount": "12.99",
+            "differencePercent": -39.76379772031505,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:09.650Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:10.278Z",
+      "path": "/api/compare/4706950?country=JP&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 4706950,
+          "countryCode": "JP",
+          "currency": "JPY",
+          "initialAmount": "2750",
+          "finalAmount": "2750",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:10.196Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "¥ 2,750",
+          "rawInitial": 275000,
+          "rawFinal": 275000,
+          "cacheState": "fresh"
+        },
+        "usQuote": {
+          "appId": 4706950,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "12.99",
+          "finalAmount": "12.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:08.784Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$12.99",
+          "rawInitial": 1299,
+          "rawFinal": 1299,
+          "cacheState": "fresh"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "17.41651388",
+            "usUsdAmount": "12.99",
+            "differencePercent": 34.07631930250904,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:10.248Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "17.41651388",
+            "usUsdAmount": "12.99",
+            "differencePercent": 34.07631930250904,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:10.248Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 200,
+      "ok": true,
+      "time": "2026-11-03T08:20:10.778Z",
+      "path": "/api/compare/4706950?country=KR&us=[snapshot]",
+      "data": {
+        "localQuote": {
+          "appId": 4706950,
+          "countryCode": "KR",
+          "currency": "KRW",
+          "initialAmount": "14000",
+          "finalAmount": "14000",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:10.692Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "₩ 14,000",
+          "rawInitial": 1400000,
+          "rawFinal": 1400000,
+          "cacheState": "fresh"
+        },
+        "usQuote": {
+          "appId": 4706950,
+          "countryCode": "US",
+          "currency": "USD",
+          "initialAmount": "12.99",
+          "finalAmount": "12.99",
+          "discountPercent": 0,
+          "isFree": false,
+          "quoteScope": "app_overview",
+          "sourceAmountScale": 100,
+          "comparabilityStatus": "app_overview_unverified",
+          "status": "ok",
+          "fetchedAt": "2026-11-03T08:20:08.784Z",
+          "source": "Steam AppDetails",
+          "appName": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+          "appType": "game",
+          "formattedInitial": "",
+          "formattedFinal": "$12.99",
+          "rawInitial": 1299,
+          "rawFinal": 1299,
+          "cacheState": "fresh"
+        },
+        "comparisons": {
+          "final": {
+            "status": "ok",
+            "localUsdAmount": "10.41569206",
+            "usUsdAmount": "12.99",
+            "differencePercent": -19.817613121774635,
+            "basis": "final",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:10.747Z"
+          },
+          "initial": {
+            "status": "ok",
+            "localUsdAmount": "10.41569206",
+            "usUsdAmount": "12.99",
+            "differencePercent": -19.817613121774635,
+            "basis": "initial",
+            "fxProvider": "ExchangeRate-API",
+            "fxAsOf": "2026-11-03T00:02:31.000Z",
+            "fxStale": false,
+            "calculatedAt": "2026-11-03T08:20:10.747Z"
+          }
+        }
+      }
+    },
+    {
+      "status": 400,
+      "ok": true,
+      "time": "2026-11-03T08:20:10.825Z",
+      "path": "/api/reviews/0",
+      "data": {
+        "error": "App ID 必須是 1～4294967295 的正整數。",
+        "status": "error",
+        "reason": "App ID 必須是 1～4294967295 的正整數。",
+        "errorCode": "SCHEMA",
+        "retryAfter": 0,
+        "fetchedAt": "2026-11-03T08:20:10.810Z",
+        "cacheState": "none"
+      }
+    },
+    {
+      "status": 400,
+      "ok": true,
+      "time": "2026-11-03T08:20:15.967Z",
+      "path": "/api/reviews/620?language=invalid",
+      "data": {
+        "error": "不支援的語言、商店或篩選條件。",
+        "status": "error",
+        "reason": "不支援的語言、商店或篩選條件。",
+        "errorCode": "INPUT",
+        "retryAfter": 0,
+        "fetchedAt": "2026-11-03T08:20:15.953Z",
+        "cacheState": "none"
+      }
+    },
+    {
+      "status": 400,
+      "ok": true,
+      "time": "2026-11-03T08:20:21.030Z",
+      "path": "/api/compare/620?country=XX",
+      "data": {
+        "error": "不支援的語言、商店或篩選條件。",
+        "status": "error",
+        "reason": "不支援的語言、商店或篩選條件。",
+        "errorCode": "INPUT",
+        "retryAfter": 0,
+        "fetchedAt": "2026-11-03T08:20:21.018Z",
+        "cacheState": "none"
+      }
+    }
+  ]
+}

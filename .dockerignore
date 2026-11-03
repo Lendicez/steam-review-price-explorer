@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.sites-runtime
+.wrangler
+.vinext
+outputs
+.env*
+.dev.vars*
